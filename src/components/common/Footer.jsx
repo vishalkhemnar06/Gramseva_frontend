@@ -40,9 +40,7 @@ function Footer() {
           {/* Copyright */}
           <div className="text-center text-xs text-gray-500">
             <p>© {currentYear} GramSeva Portal. All rights reserved.</p>
-            <p className="mt-1 flex items-center justify-center">
-              Made with <FaHeart className="mx-1 text-red-500 animate-pulse" /> by YourTeam
-            </p>
+            
           </div>
         </div>
       </div>
